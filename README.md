@@ -1,7 +1,7 @@
 # Library-Management-System
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225100035
+# Name: Prashanth raaj S
+# Date: 18.08.2026
 
 
 # AIM:
@@ -40,6 +40,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="979" height="829" alt="image" src="https://github.com/user-attachments/assets/bba704f7-7b23-495a-ab6b-ce6f37e60a47" />
 
 
 
@@ -58,6 +59,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1126" height="653" alt="class dia act 2" src="https://github.com/user-attachments/assets/9436ee1e-caa7-4762-bdfc-9efbf912e8cc" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -67,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1076" height="860" alt="image" src="https://github.com/user-attachments/assets/f065c8fa-2d0b-4c97-8999-af2fe4988389" />
 
 
 # PACKAGE DIAGRAM:
@@ -79,6 +82,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1080" height="638" alt="LMS package diag act 2" src="https://github.com/user-attachments/assets/174d1f8c-faaa-4656-a405-a776c49975f9" />
 
 
 
@@ -97,6 +101,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="976" height="882" alt="Screenshot 2026-08-19 082023" src="https://github.com/user-attachments/assets/f87e6d8c-31d9-4e14-bab5-585b89cf679c" />
 
 
 
@@ -117,6 +122,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
+<img width="1035" height="797" alt="sequence dia act 2" src="https://github.com/user-attachments/assets/9f94ab2a-63e2-45fa-a157-376d0207036b" />
 
 
 
